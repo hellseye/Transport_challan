@@ -61,7 +61,7 @@ python main.py
 </ol>
 
 <h2>📄 License</h2>
-<p>This project is licensed under the MIT License. See the <a href="LICENSE.txt">LICENSE</a> file for details.</p>
+<p>This project is licensed under the MIT License. See the <a href="LICENSE">LICENSE</a> file for details.</p>
 
 <h2>📞 Contact</h2>
 <p>For questions or feedback, open an issue or contact <a href="https://github.com/hellseye">hellseye</a>.</p>
